@@ -1,7 +1,3 @@
-# QR-code-component
-front end mentor excercie to create a qr code component
-
-
 # Frontend Mentor - QR code component solution
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -27,10 +23,9 @@ It was really good experience to create a responsive qr code component and reall
 
 ### Screenshot
 
-![](./screenshot.jpg)
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
+![image](https://github.com/majidali55566/QR-code-component/assets/83289212/5fc78dcf-dd9b-4697-9a84-bea0eea6f7d4)
+![image](https://github.com/majidali55566/QR-code-component/assets/83289212/2956fae1-6322-4344-975c-939b6ff81ffb)
+![image](https://github.com/majidali55566/QR-code-component/assets/83289212/3c5dab08-e41a-4f1a-a9e6-b8ebb0ff82dc)
 
 
 ### Links
@@ -58,21 +53,14 @@ At first it was little difficult to figure out how to make it responsive but aft
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Dev grey](https://www.youtube.com/watch?v=f0A7moLkAL0) - This helped me for flexbox. I really liked this tutorial and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- linkedIn - [Majid ali pahore](https://www.linkedin.com/in/majid-ali-pahore-894249210/)
+- Frontend Mentor - [@majalipahore55566](https://www.frontendmentor.io/profile/majidali55566)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-\*_Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely._
+I just watched utube tutorial of kevin powell and dev grey they both really helped me alot during the chellange.

@@ -32,6 +32,7 @@ It was really good experience to create a responsive qr code component and reall
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
 
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
